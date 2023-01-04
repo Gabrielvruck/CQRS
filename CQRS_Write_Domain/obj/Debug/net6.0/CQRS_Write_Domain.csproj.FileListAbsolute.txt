@@ -1,0 +1,17 @@
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.csproj.AssemblyReference.cache
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.AssemblyInfoInputs.cache
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.AssemblyInfo.cs
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\bin\Debug\net6.0\CQRS_Write_Domain.deps.json
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\bin\Debug\net6.0\CQRS_Write_Domain.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\bin\Debug\net6.0\CQRS_Write_Domain.pdb
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\bin\Debug\net6.0\CQRS_Read_Application.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\bin\Debug\net6.0\CQRS_Read_Infrastructure.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\bin\Debug\net6.0\CQRS_Read_Application.pdb
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\bin\Debug\net6.0\CQRS_Read_Infrastructure.pdb
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.csproj.CopyComplete
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\refint\CQRS_Write_Domain.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\CQRS_Write_Domain.pdb
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_Write_Domain\obj\Debug\net6.0\ref\CQRS_Write_Domain.dll

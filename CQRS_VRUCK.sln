@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationCQRS", "WebApplicationCQRS\WebApplicationCQRS.csproj", "{77595D9D-6717-4D58-80E4-81608CC92398}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Read", "Read", "{186D3009-5C2D-4433-893E-514FBE0125B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Write", "Write", "{BE78122C-5221-4237-845D-FEDB42505002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Read_Infrastructure", "CQRS_read_Infrastructure\CQRS_Read_Infrastructure.csproj", "{830D07D9-947F-4CDC-9FB3-825E6443E3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Read_Application", "CQRS_read_Application\CQRS_Read_Application.csproj", "{6272D245-4E0B-4707-AA49-1A2C06F0C5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Write_Domain", "CQRS_Write_Domain\CQRS_Write_Domain.csproj", "{B3995358-5B07-4A5F-91AA-45A3BFFF209D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Write_Infrastructure", "CQRS_Write_Infrastructure\CQRS_Write_Infrastructure.csproj", "{5687C89A-8297-485B-BB4C-A7C8951C8112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS_Write_Application", "CQRS_Write_Application\CQRS_Write_Application.csproj", "{953CBABE-6DAD-40ED-A59C-7A3977F6863D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77595D9D-6717-4D58-80E4-81608CC92398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77595D9D-6717-4D58-80E4-81608CC92398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77595D9D-6717-4D58-80E4-81608CC92398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77595D9D-6717-4D58-80E4-81608CC92398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830D07D9-947F-4CDC-9FB3-825E6443E3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830D07D9-947F-4CDC-9FB3-825E6443E3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830D07D9-947F-4CDC-9FB3-825E6443E3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830D07D9-947F-4CDC-9FB3-825E6443E3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6272D245-4E0B-4707-AA49-1A2C06F0C5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6272D245-4E0B-4707-AA49-1A2C06F0C5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6272D245-4E0B-4707-AA49-1A2C06F0C5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6272D245-4E0B-4707-AA49-1A2C06F0C5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3995358-5B07-4A5F-91AA-45A3BFFF209D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3995358-5B07-4A5F-91AA-45A3BFFF209D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3995358-5B07-4A5F-91AA-45A3BFFF209D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3995358-5B07-4A5F-91AA-45A3BFFF209D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5687C89A-8297-485B-BB4C-A7C8951C8112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5687C89A-8297-485B-BB4C-A7C8951C8112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5687C89A-8297-485B-BB4C-A7C8951C8112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5687C89A-8297-485B-BB4C-A7C8951C8112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953CBABE-6DAD-40ED-A59C-7A3977F6863D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953CBABE-6DAD-40ED-A59C-7A3977F6863D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953CBABE-6DAD-40ED-A59C-7A3977F6863D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953CBABE-6DAD-40ED-A59C-7A3977F6863D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{830D07D9-947F-4CDC-9FB3-825E6443E3F6} = {186D3009-5C2D-4433-893E-514FBE0125B7}
+		{6272D245-4E0B-4707-AA49-1A2C06F0C5D2} = {186D3009-5C2D-4433-893E-514FBE0125B7}
+		{B3995358-5B07-4A5F-91AA-45A3BFFF209D} = {BE78122C-5221-4237-845D-FEDB42505002}
+		{5687C89A-8297-485B-BB4C-A7C8951C8112} = {BE78122C-5221-4237-845D-FEDB42505002}
+		{953CBABE-6DAD-40ED-A59C-7A3977F6863D} = {BE78122C-5221-4237-845D-FEDB42505002}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC5D42B-6BC6-47A7-BDB4-632C651B5F45}
+	EndGlobalSection
+EndGlobal

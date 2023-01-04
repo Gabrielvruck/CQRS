@@ -1,0 +1,12 @@
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\bin\Debug\net6.0\CQRS_Read_Infrastructure.deps.json
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\bin\Debug\net6.0\CQRS_Read_Infrastructure.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\bin\Debug\net6.0\CQRS_Read_Infrastructure.pdb
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\CQRS_Read_Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\CQRS_Read_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\CQRS_Read_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\CQRS_Read_Infrastructure.AssemblyInfo.cs
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\CQRS_Read_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\CQRS_Read_Infrastructure.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\refint\CQRS_Read_Infrastructure.dll
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\CQRS_Read_Infrastructure.pdb
+C:\Users\gabriel.vruck\Source\repos\CQRS_VRUCK\CQRS_read_Infrastructure\obj\Debug\net6.0\ref\CQRS_Read_Infrastructure.dll

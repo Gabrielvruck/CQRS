@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6u85Wz07M9SqnXqZirAlmjKwBMuKvMOD5Vug91tRx4TIG0QSDUAypZl2h5FhDFbA7R4j5cGi/yZpMfLd5tZvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel Vruck\\source\\repos\\Projetos\\CQRS_VRUCK\\CQRS_Write_Application\\CQRS_Write_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Vruck\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

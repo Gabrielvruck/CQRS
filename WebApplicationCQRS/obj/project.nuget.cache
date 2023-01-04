@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeNRb+YKlaJk15JSBKLIFT4I26jusuJ4zEPl3aPN2eEGV5PIobMEAcXTxOo1TpyCM1q3Q9ZUh1H6eN31LZufVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel Vruck\\source\\repos\\Projetos\\CQRS_VRUCK\\WebApplicationCQRS\\WebApplicationCQRS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Vruck\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
